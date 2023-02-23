@@ -7,7 +7,7 @@
 - Definición, propiedades y ejemplos de:
   * Norma de un vector.
   * Producto punto.
-- Producto cruz.
-- Ángulos directores y cosenos directores.
-- Vectores unitarios.
-- Proyección de un vector.
+  * Producto cruz.
+  * Ángulos directores y cosenos directores.
+  * Vectores unitarios.
+  * Proyección de un vector.
