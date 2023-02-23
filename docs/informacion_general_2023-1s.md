@@ -100,6 +100,7 @@ Se estudiará en detalle el equilibrio externo de cuerpos sometidos a fuerzas, l
 
 Algunas recomendaciones basadas en Héctor Ruíz Martín. Recomiendo ver este vídeo: [Estrategias de aprendizaje](https://www.youtube.com/watch?v=MI-oDMh9dJs)  
 
+## Aspectos pedagógicos
 
 - **Clases presenciales magistrales** en las que se explican los conceptos más relevantes con la *libre* participación de los estudiantes, el respeto por sus opiniones y la construcción de soluciones comunes.
 - **Exámenes** con preguntas teóricas, preguntas *conceptuales*, demostraciones y ejercicios de aplicación.
@@ -107,3 +108,23 @@ Algunas recomendaciones basadas en Héctor Ruíz Martín. Recomiendo ver este v�
 - **Diapositivas** con el contenido *necesario* y *enlaces* al explorador.
 - **Exámenes cortos** sorpresa.
 - La mayoría del contenido será enseñado usando el **tablero**. 
+
+
+# Lenguaje de programación
+## **Python 3**
+Se recomienda revisar:
+- IDE: [Spyder](https://www.spyder-ide.org/)
+- Entorno informático: [Jupyter](https://jupyter.org/) o [Google Colab](https://colab.research.google.com/)
+
+
+## Conocimientos previos en python
+Una guía para aprender Python 3 está disponible en el repositorio del profesor Diego Andrés Álvarez Marín en este [enlace](https://github.com/diegoandresalvarez/programaciondecomputadores/blob/master/docs/python3/codigos_y_diapositivas.md).
+
+Se recomienda estudiar autónomamente:
+- Tipos de datos
+- Estructuras de control
+- Librerías científicas: Numpy y SymPy.
+
+Documentación módulo Numpy de Python. Disponible [aquí](https://numpy.org/doc/stable/)
+
+Documentación módulo SymPy de Python. Disponible [aquí](https://docs.sympy.org/latest/index.html)
