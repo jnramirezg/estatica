@@ -5,8 +5,8 @@
 - Multiplicación por escalar.
 - Propiedades de los vectores.
 - Definición, propiedades y ejemplos de:
-* Norma de un vector.
-* Producto punto.
+  * Norma de un vector.
+  * Producto punto.
 - Producto cruz.
 - Ángulos directores y cosenos directores.
 - Vectores unitarios.
