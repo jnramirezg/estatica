@@ -1,5 +1,5 @@
 
-# Examen 1 (25%): jueves 16 de marzo de 2023
+# Examen 1 (25%): jueves 16 de marzo de 2023 [(Solución)](/docs/SOL-examen_1-2023-1s.pdf)
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
 
 - [Conceptos Fundamentales](https://drive.google.com/file/d/1wHVbaJxeK1ICHDDJ3cXFpDhef2HDRwxe/view) (teoría y ejercicios).
