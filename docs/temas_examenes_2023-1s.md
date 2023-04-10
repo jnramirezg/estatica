@@ -9,11 +9,10 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
 
 - [02- equilibrio estático](https://drive.google.com/file/d/1zGMlxq3HT2ADkKtL_xXswFduoYsWvPFG/view?usp=sharing) (teoría y ejercicios).
-- [03- centros de gravedad y fuerzas distribuidas](https://drive.google.com/file/d/1zoq5rxK4id7QVuzhLjPVIDnWY4Xs8iBy/view?usp=sharing) (teoría y ejercicios).
+- [03- centros de gravedad y fuerzas distribuidas](https://drive.google.com/file/d/1zoq5rxK4id7QVuzhLjPVIDnWY4Xs8iBy/view?usp=sharing) (teoría y ejercicios), sin incluir la parte de fuerzas distribuidas.
 - [Taller 02: reacciones 2D](https://drive.google.com/file/d/1yuF4Hzw_owZJmIjyCq5iv2UBboXlzvCA/view?usp=sharing)
 - [Taller 03: reacciones 3D](https://drive.google.com/file/d/1zNzEq6rsMotcjNFeGPsIotyHfy1lWOIt/view?usp=sharing)
 - [Taller 04: centros](https://drive.google.com/file/d/10V0eGGvVckRcqHWqJxOgWPQGiVQ5Looi/view?usp=sharing)
-- [Taller 05: cargas distribuidas]()
 
 
 # Examen 3 (25%): jueves 11 de mayo de 2023 [(Solución)](/docs/SOL-examen_3-2023-1s.pdf)
