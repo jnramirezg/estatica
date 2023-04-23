@@ -19,7 +19,7 @@
 | **Actividad evaluativa** | **%** | **Fecha**                    |
 | ---                      | ---   | ---                          | 
 | Evaluación parcial 1     | 25%   | jueves 16 de marzo de 2023   |
-| Evaluación parcial 2     | 25%   | jueves 13 de abril de 2023   |
+| Evaluación parcial 2     | 25%   | jueves 20 de abril de 2023   |
 | Evaluación parcial 3     | 25%   | jueves 11 de mayo de 2023    |
 | Evaluación parcial 4     | 25%   | lunes 05 de junio de 2023    |
 
