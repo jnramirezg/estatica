@@ -6,3 +6,4 @@
 * [Taller 05: cargas distribuidas](https://drive.google.com/open?id=1LB7G1jtXeZ0A4roDUGufIW5ojbx6oDJn&authuser=jnramirezg%40unal.edu.co&usp=drive_fs)
 * [Taller 06: momentos de inercia](https://drive.google.com/file/d/1Rjge0tDraPtNmoHrITthDeEoEQZlkgeq/view?usp=sharing)
 * [Taller 07: cerchas - método de nodos](https://drive.google.com/file/d/1UhuCw9ak5HqgBiib54v2zJfD6oDVpnwE/view?usp=sharing)
+* [Taller 08: cerchas - método de las secciones](https://drive.google.com/file/d/1gsBc8e6BFxqH3mZLs8u0BQ5sz-b1XkUC/view?usp=sharing)
