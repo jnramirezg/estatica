@@ -7,3 +7,4 @@
 * [Taller 06: momentos de inercia](https://drive.google.com/file/d/1Rjge0tDraPtNmoHrITthDeEoEQZlkgeq/view?usp=sharing)
 * [Taller 07: cerchas - método de nodos](https://drive.google.com/file/d/1UhuCw9ak5HqgBiib54v2zJfD6oDVpnwE/view?usp=sharing)
 * [Taller 08: cerchas - método de las secciones](https://drive.google.com/file/d/1gsBc8e6BFxqH3mZLs8u0BQ5sz-b1XkUC/view?usp=sharing)
+* [Taller 09: vigas](https://drive.google.com/file/d/1iF9MtwByNULjmcM5ly8jNQRWG9fzCeHC/view?usp=sharing)
