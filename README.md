@@ -10,6 +10,6 @@ Universidad Nacional de Colombia
 
 ## Contenido
 - [Diapositivas de clase](/docs/material.md)
-- [Talleres 2023-1s](/docs/talleres_2023-1s.md)
+- [Talleres](/docs/talleres_2023-1s.md)
 - [Contenido temático](/docs/contenido_tematico.md)
 - [Referencias bibliográficas curso](/docs/referencias_curso.md)
